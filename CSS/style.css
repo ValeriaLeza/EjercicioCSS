@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+.cuadro{
+margin: 20px;
+background-color: rgb(236, 109, 86);
+display:flex;
+flex-direction: row; 
+text-align: center;
+flex-wrap: wrap;
+padding: .3em;
+
+}
+p {
+display: inline-block;
+height: 120px;
+width: 120px;
+margin: 5px;
+Justify-content: center; 
+align-items:center;
+text-align: center;
+line-height: 100px; color: white; 
+font-size: 70px;
+padding: .1em;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color: rgb(64, 136, 219);   
+font-weight: 900;       
+}
